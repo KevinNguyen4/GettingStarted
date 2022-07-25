@@ -5,8 +5,10 @@ public class loopPractice {
 	public static void main(String args[]) {
 
 //Put in hashtable, as youre going thru, check containsKey on that letter
+		//YEEEHAW
+		//yeeeeclaw
 
-		int[] arr = new int[] { 1};
+		int[] arr = new int[] {1};
 
 		System.out.println("isUniqueWith: " + isUnique("botasdfy"));// correct
 		System.out.println("isUniqueWithout: " + isUniqueWithout("boxtasdy"));// corect
